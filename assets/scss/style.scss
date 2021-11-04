@@ -1,0 +1,91 @@
+.container{
+  .row{
+    .col-sm-3{
+      img{
+        width: 200px;
+        height: 250px;
+      }
+    }
+    .col-sm-9{
+      h1{
+        text-transform: capitalize;
+      }
+      h3{
+        text-transform: capitalize;
+      }
+      hr{
+        height: 7px;
+      }
+      p{
+        text-align: justify
+      }
+    }
+  }
+  .row{
+    .col-sm-3{
+      span{
+        vertical-align:middle;
+        font-size: 30px
+      }
+      .progress{
+        #b1{
+          width: 70%;
+        }
+        #b2{
+          width: 65%;
+        }
+        #b3{
+          width: 40%;
+        }
+        #b4{
+          width: 90%;
+        }
+        #b5{
+          width: 65%;
+        }
+        #b6{
+          width: 60%;
+        }
+        #b7{
+          width: 80%;
+        }
+        #b8{
+          width: 70%;
+        }
+        #b9{
+          width: 90%;
+        }
+        #b10{
+          width: 95%;
+        }
+        #b11{
+          width: 80%;
+        }
+        #b12{
+          width: 85%;
+        }
+        #b13{
+          width: 85%;
+        }
+        #b14{
+          width: 90%;
+        }
+        #b15{
+          width: 100%;
+        }
+        #b16{
+          width: 30%;
+        }
+        #b17{
+            width: 35%;
+        }
+      }
+    }
+    .col-sm-9{
+      span{
+        vertical-align:middle;
+        font-size: 30px
+      }
+    }
+  }
+}

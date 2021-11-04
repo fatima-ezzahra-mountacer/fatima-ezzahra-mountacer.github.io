@@ -1,0 +1,75 @@
+.container .row .col-sm-3 img {
+  width: 200px;
+  height: 250px;
+}
+.container .row .col-sm-9 h1 {
+  text-transform: capitalize;
+}
+.container .row .col-sm-9 h3 {
+  text-transform: capitalize;
+}
+.container .row .col-sm-9 hr {
+  height: 7px;
+}
+.container .row .col-sm-9 p {
+  text-align: justify;
+}
+.container .row .col-sm-3 span {
+  vertical-align: middle;
+  font-size: 30px;
+}
+.container .row .col-sm-3 .progress #b1 {
+  width: 70%;
+}
+.container .row .col-sm-3 .progress #b2 {
+  width: 65%;
+}
+.container .row .col-sm-3 .progress #b3 {
+  width: 40%;
+}
+.container .row .col-sm-3 .progress #b4 {
+  width: 90%;
+}
+.container .row .col-sm-3 .progress #b5 {
+  width: 65%;
+}
+.container .row .col-sm-3 .progress #b6 {
+  width: 60%;
+}
+.container .row .col-sm-3 .progress #b7 {
+  width: 80%;
+}
+.container .row .col-sm-3 .progress #b8 {
+  width: 70%;
+}
+.container .row .col-sm-3 .progress #b9 {
+  width: 90%;
+}
+.container .row .col-sm-3 .progress #b10 {
+  width: 95%;
+}
+.container .row .col-sm-3 .progress #b11 {
+  width: 80%;
+}
+.container .row .col-sm-3 .progress #b12 {
+  width: 85%;
+}
+.container .row .col-sm-3 .progress #b13 {
+  width: 85%;
+}
+.container .row .col-sm-3 .progress #b14 {
+  width: 90%;
+}
+.container .row .col-sm-3 .progress #b15 {
+  width: 100%;
+}
+.container .row .col-sm-3 .progress #b16 {
+  width: 30%;
+}
+.container .row .col-sm-3 .progress #b17 {
+  width: 35%;
+}
+.container .row .col-sm-9 span {
+  vertical-align: middle;
+  font-size: 30px;
+}
